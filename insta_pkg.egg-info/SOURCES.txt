@@ -1,0 +1,13 @@
+LICENSE.txt
+setup.py
+insta_package/Insta_Follower_Scraper.py
+insta_package/__init__.py
+insta_package/insta_AutoLogin.py
+insta_package/insta_Auto_DM.py
+insta_package/insta_dm_spammer.py
+insta_package/insta_following_scraper.py
+insta_package/insta_parser.py
+insta_pkg.egg-info/PKG-INFO
+insta_pkg.egg-info/SOURCES.txt
+insta_pkg.egg-info/dependency_links.txt
+insta_pkg.egg-info/top_level.txt
