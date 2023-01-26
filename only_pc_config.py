@@ -1,5 +1,5 @@
-username = "whitehole00.xyz"
-password = "jcm@040502"
-target = "yeon_.ajem"
+username = "계정이름"
+password = "게정비번"
+target = "타겟아이디"
 
-token = "MTAwMjUxMjAzMjE3Nzg2MDY0OA.GF9Jhr.JNJACgQRcpF75Q8avCyQIQ2UMFKj6b8kIkkf04"
+token = "봇토큰이지만사용X"
